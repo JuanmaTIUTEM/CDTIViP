@@ -1,0 +1,35 @@
+.img{
+	width: 50px;
+	height: 50px;
+}
+.img2{
+	width: 50px;
+	height: 30px;
+}
+.borderBtn{
+	border-style: double;
+	border-color: lightgray;
+}
+
+.sidebar {
+  position: fixed;
+  top: 70px;
+  left: 0;
+  height: 100%;
+  width: 250px;
+  z-index: 1000;
+
+}
+
+.cuerpo{
+  position: fixed;
+  top: 70px;
+  left: 25%;
+  height: 100%;
+  z-index: 1000;
+
+}
+.w-33{
+	width: 33%;
+	height: 100%;
+}
